@@ -10,6 +10,7 @@ public class C07_MethotCreation {
         hosgeldinYazdir();
     }
     public static void kapanmaMethodu() {
+
         System.out.println("Bizi tercih ettiginiz icin tesekkur ederiz");
     }
     public static void hosgeldinYazdir() {
