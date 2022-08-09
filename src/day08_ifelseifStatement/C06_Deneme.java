@@ -2,7 +2,7 @@ package day08_ifelseifStatement;
 
 import java.util.Scanner;
 
-public class C06_Deneme {
+public class  C06_Deneme {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
